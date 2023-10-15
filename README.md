@@ -9,3 +9,5 @@ A simple web page that can change its background color
 ### Upcoming Changes
 
 -   Change design and add more function
+-   Options to only use light or dark color
+-
