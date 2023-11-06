@@ -38,7 +38,7 @@ const backgroundChanger = () => {
                 0,
                 boxFont[k].textContent.length
             );
-
+            console.log(currentText);
             if (!isClickable) {
                 // If not clickable, return early and do nothing
                 return;
